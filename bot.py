@@ -24,9 +24,9 @@ class Bot(Client):
     def __init__(self):
         super().__init__(
             name=SESSION,
-            api_id=24145498,
-            api_hash=8317840cfdbe5b0b64df1ce132435097,
-            bot_token=6010153920:AAE2NoPnEzo4USp667-Z2gFw9quJeUYewcw,
+            api_id=API_ID,
+            api_hash=API_HASH,
+            bot_token=BOT_TOKEN,
             workers=200,
             plugins={"root": "plugins"},
             sleep_threshold=10,
