@@ -13,8 +13,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = ('Media_search')
-API_ID = ['29854276']
-API_HASH = ['fae0a38ee4250ca42454f6106460772b']
+API_ID = ['24145498']
+API_HASH = ['8317840cfdbe5b0b64df1ce132435097']
 BOT_TOKEN =['6010153920:AAE2NoPnEzo4USp667-Z2gFw9quJeUYewcw']
 
 # Bot settings
